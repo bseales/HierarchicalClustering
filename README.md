@@ -5,7 +5,7 @@ My solution to a hierarchical clustering problem from COMP 6600 (Artificial Inte
 
 All the points on the chart begin in clusters by themselves. There is no grouping at all.
 
-<img src="clusering_input.png" alt="input" width="350"/>
+<img src="clustering_input.png" alt="input" width="350"/>
 
 ## Output after clustering:
 
