@@ -22,4 +22,4 @@ I took an object-oriented approach by creating Point and Group objects, where Gr
 
 ## Areas for improvement:
 * Currently, my distanceToGroup method begins with a "smallest distance" value of 999. In the scope of this problem, all of the points had distances less than 2 from any other. Obviously this would not scale to a general-use solution.
-* When searching for the nearest two groups, I compare each group to every other group. This results in an `O(n^2)` time complexity and would also need to be improved for any scalability.
+* When searching for the nearest two groups, I compare each group to every other group. This results in an `O(n²)` time complexity and would also need to be improved for any scalability.
